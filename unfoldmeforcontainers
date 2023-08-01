@@ -8,13 +8,11 @@ apt install docker-compose -y
 apt install arp-scan -y
 apt install dirb -y 
 apt install net-tools -y
-git clone https://github.com/danielmiessler/SecLists
 apt install wireshark -y 
 apt install nano -y
 apt install snap -y
 apt install dnsmasq -y
 apt install hostapd -y
-git clone https://github.com/AonCyberLabs/PadBuster
 apt install python3
 apt install exiftool -y
 apt install perl
@@ -24,6 +22,8 @@ apt install ftp -y
 apt install netcat 
 apt install hydra -y
 apt install steghide -y
-git clone https://gitlab.com/exploit-database/exploitdb
 apt install wfuzz -y
 apt install whatweb -y
+git clone https://github.com/danielmiessler/SecLists
+git clone https://github.com/AonCyberLabs/PadBuster
+git clone https://gitlab.com/exploit-database/exploitdb
