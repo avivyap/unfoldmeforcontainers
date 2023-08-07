@@ -13,13 +13,16 @@ apt upgrade -y
 
 sleep 3
 
-echo -e "\e[33m[+] Ahora se va a instalar php, apache2 y python3\e[0m"
+echo -e "\e[33m[+] Ahora se va a instalar php, apache2, python3, nano, snap y los net-tools\e[0m"
 
 sleep 3
 
 apt install php -y
 apt install apache2 -y
 apt install python3 -y
+apt install nano -y
+apt install snap -y
+apt install net-tools -y
 
 sleep 3
 
@@ -39,10 +42,7 @@ sleep 3
 apt install nmap -y
 apt install arp-scan -y
 apt install dirb -y 
-apt install net-tools -y
 apt install wireshark -y 
-apt install nano -y
-apt install snap -y
 apt install dnsmasq -y
 apt install hostapd -y
 apt install exiftool -y
