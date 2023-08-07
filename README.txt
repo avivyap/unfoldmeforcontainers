@@ -1,10 +1,11 @@
-Hello!!
-
-Welcome to this project, this is a repo to created your best container for pentesting, this repo install php,nmap,mysql and more things to hacking and doing hacking.
-
-This script can save a lot of time for you because this script install all tools that you need to do pentesting.
-
-This project its for a containers to do pentesting
+Herramienta ideal para crear tu contenedor perfecto para hacer pentesting, con este repo se instalará php,nmap,mysql y muchas mas herramientas para hacer hacking y pentesting.
 
 
-Bye!!
+Con esta herramientas vas a ahorrar un monton de tiempo a la hora de preparar tu contenedor con las herramientas necesarias para hacer hacking y pentesting
+
+
+
+!! Este proyecto es solo para contenedores !!
+
+
+Esta herramienta se irá actualizando con nuevas herramientas
