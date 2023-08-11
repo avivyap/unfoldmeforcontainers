@@ -80,10 +80,10 @@ apt install ssh -y
 apt install ftp -y
 apt install netcat 
 apt install hydra -y
-sudo apt install steghide -y
+apt install steghide -y
 apt install wfuzz -y
 apt install whatweb -y
-
+apt install aircrack-ng -y
 sleep 3
 
 echo -e "\e[33m[+] Por ultimo se descargarán los repositorios\e[0m"
@@ -101,7 +101,7 @@ echo -e "\e[33m[+] Se han instalado las siguientes herramientas\e[0m"
 
 sleep 3
 
-echo -e "\e[32mdocker, apache2, nmap, docker, docker-compose, arp-scan, dirb, wireshark, dnsmasp, exiftool, gobuster, hydra, steghide, wfuzz, whatweb\e[0m"
+echo -e "\e[32mdocker, apache2, nmap, docker, docker-compose, arp-scan, dirb, wireshark, dnsmasp, exiftool, gobuster, hydra, steghide, wfuzz, whatweb, aircrack-ng\e[0m"
 
 sleep 3
 
