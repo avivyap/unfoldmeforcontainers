@@ -84,6 +84,8 @@ apt install steghide -y
 apt install wfuzz -y
 apt install whatweb -y
 apt install aircrack-ng -y
+apt install bettercap -y
+
 sleep 3
 
 echo -e "\e[33m[+] Por ultimo se descargarán los repositorios\e[0m"
