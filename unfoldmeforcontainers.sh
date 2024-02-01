@@ -86,6 +86,9 @@ apt install whatweb -y
 apt install aircrack-ng -y
 apt install bettercap -y
 apt install hping3 -y
+sudo apt install macchanger -y
+sudo apt install cowpatty -y 
+sudo apt install mdk3 -y
 
 sleep 3
 
